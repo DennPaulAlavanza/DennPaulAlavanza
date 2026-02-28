@@ -20,5 +20,9 @@ I am a passionate IT student at Xavier University Ateneo De Cagayan, driven by a
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2026
 
+## Fun Fact
+
+- I like to DIY things at home, I like to eat
+
 
 Thanks for stopping by!
